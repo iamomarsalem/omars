@@ -1,6 +1,6 @@
 # omars
 omars
-#هل انت هقر؟ 
+print('هل انت، هقر؟ ') 
 
  # WhatsApp  OMAR+ALTARHUNY
 
